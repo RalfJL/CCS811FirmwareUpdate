@@ -22,7 +22,7 @@ After the upgrade the CCS811 is restarted to load the app. You may have to power
 Check the firmware version again with "a"
 
 After a few days with the firmware 2.0.0, I am still very unhappy with the CCS811 sensor. Have a look at the chart below:
-[https://github.com/RalfJL/CCS811FirmwareUpdate/blob/master/CCS811-goes-mad.png]
+[![CCS811 goes mad](CCS811-goes-mad.png)](https://github.com/RalfJL/CCS811FirmwareUpdate/blob/master/CCS811-goes-mad.png)
 
 The sensor is in a room where I do not use any sprays or something that emits VOC's. The windows is partially open almost all day. Actually there is only one human (me) that emits VOC's and a computer.
 A second CCS811 sensor is 20 centimeters away from the first one in a different housing with a 6 °C higher temperature (due to the heat of the ESP32).
